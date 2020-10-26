@@ -172,9 +172,9 @@ ul li {
 
 @media only screen and (max-width: 1240px) {
     .col-1 {
-        width: 100%;
-        height: 100%;
-        padding: 30px;
+        width: 250px;
+        height: 250px;
+        padding: 0;
     }
     .col-2 {
         width: 90%;
